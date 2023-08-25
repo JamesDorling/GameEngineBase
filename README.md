@@ -6,4 +6,4 @@ Implemented are both 2D and 3D renderers, as well as cameras for both. These all
 This code will not work if cloned from here, as it is lacking multiple files, namely the "vendor" folder which stores a lot of used libraries.
 
 THIS IS NOT THE FINAL PRODUCT OF TIGER WOULDNT'S. 
-I am working on regaining access to the final product, and will upload that immediately upon regaining access to the code.
+Unfortunately, as Tiger Wouldn'ts was a university project, I have lost the code for it.
